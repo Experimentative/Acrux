@@ -1,4 +1,4 @@
 # Acrux
 Acrux negrotech powered by Niggalink and fentaquantum reactors
 
-![image alt](https://github.com/Experimentative/Acrux/blob/84bdf81732a56ea65f0b3dc75a8c6cb9788e9c03/acrux.png)
+![image alt](https://github.com/Experimentative/Acrux/blob/a07a656600733820001bd9617b7e691b52249157/Acruxban.jpg)
